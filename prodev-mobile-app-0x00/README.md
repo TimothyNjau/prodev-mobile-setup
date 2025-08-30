@@ -14,8 +14,7 @@ After the process is complete, move to your project directory: `cd my-mobile-app
 To start the development server: `npx expo start`.
 
 ## Reset The Application
-When I run the reset command : `npm run reset-project`, all the boilerplate code which was initiated with the project was removed and a new project structure was created. This involved the creation of a new **/app** directory and creation of a basic **index.tsx** file. 
-
+When I run the reset command : `npm run reset-project`, all the boilerplate code which was initiated with the project was removed and a new project structure was created. This involved the creation of a new **/app** directory and creation of a basic **index.tsx** file.
 ## Get started
 
 1. Install dependencies
