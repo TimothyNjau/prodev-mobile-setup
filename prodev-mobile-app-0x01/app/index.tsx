@@ -2,6 +2,7 @@ import { Text, View, StyleSheet } from "react-native";
 
 export default function Index() {
   return (
+    <>
     <View
       style={styles.container}>
       <Text>
@@ -13,6 +14,8 @@ export default function Index() {
         <Text style={styles.smallText}>ALX is awesome</Text>
       </View>
     </View>
+    
+      </>
   );
 };
 
